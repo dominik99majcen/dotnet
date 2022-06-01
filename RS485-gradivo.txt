@@ -1,0 +1,5 @@
+raspberry pi3 - UWP C# UART RS485 Communication Issue - Stack Overflow: https://stackoverflow.com/questions/54301070/uwp-c-sharp-uart-rs485-communication-issue
+
+Serial Communication with .NET Core 3.0 on RPi Linux - Arduino Project Hub: https://create.arduino.cc/projecthub/sxwei123/serial-communication-with-net-core-3-0-on-rpi-linux-0f2ed4
+
+UWP C# UART RS485 Polling Issue - Microsoft Q&A: https://docs.microsoft.com/en-us/answers/questions/159103/uwp-c-uart-rs485-polling-issue.html
